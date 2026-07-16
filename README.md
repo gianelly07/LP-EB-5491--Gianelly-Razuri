@@ -15,5 +15,6 @@ Diseño minimalista e intuitiva
 #000814
 
 • tipografía: Nunito
+
 • disposición visual: Horizontal Desktop - Sitio Web
-•	Capturas de pantalla (modo escritorio)
+
